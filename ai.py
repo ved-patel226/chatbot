@@ -6,7 +6,7 @@ import google.generativeai as genai
 class GenAi:
     def __init__(self):
 
-        genai.configure(api_key="AIzaSyCTcqQKqSbUGm_7DvwnlV4BPja5kXI7zVA")
+        genai.configure(api_key="GEMENAi key here")
 
         generation_config = {
             "temperature": 1,
